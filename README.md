@@ -1,4 +1,4 @@
-# Servidor_1-Eval 🚀
+# 🚀 Servidor_1-Eval  DAW Alicia Hernández Contreras
 
 ## Índice
 1. [Introducción](#introducción)
@@ -70,8 +70,10 @@ La aplicación soporta los siguientes **endpoints** (base `/api/v1`):
 ### Swagger (Documentación Interactiva)
 
 La documentación interactiva de la API está disponible gracias a **SpringDoc**. Puedes acceder a ella en la siguiente URL: http://localhost:8080/swagger-ui.html.
+
 En esta documentación podrás ver todos los endpoints, sus parámetros y las respuestas que puedes esperar de la API, además de probar las solicitudes directamente desde la interfaz web.
 
+---
 
 ### Ejemplo de Uso
 
@@ -92,11 +94,16 @@ En esta documentación podrás ver todos los endpoints, sus parámetros y las re
 }
 ```
 
+---
+
 ## Conclusión
 
 Este proyecto proporciona una API RESTful eficiente y bien estructurada para la gestión de proyectos, desarrolladores y tecnologías en el contexto de equipos de desarrollo de software. Gracias al uso de tecnologías como Spring Boot, Spring Data JPA y Swagger, la aplicación es fácil de mantener, documentada y permite realizar las operaciones CRUD necesarias para gestionar la información de manera efectiva.
 
 Además, el manejo centralizado de excepciones y el control adecuado de errores mediante RestControllerAdvice garantiza una experiencia robusta y segura para los usuarios de la API.
+
+
+---
 
 
 ## Contacto
