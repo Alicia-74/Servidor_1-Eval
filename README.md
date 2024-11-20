@@ -12,10 +12,10 @@
 
 ## 🎯 Introducción
 
-### Descripción del Proyecto
+#### Descripción del Proyecto
 Este proyecto es una **API RESTful** que gestiona la información relacionada con **proyectos**, **desarrolladores** y **tecnologías** utilizadas en el desarrollo de dichos proyectos. La aplicación está construida utilizando el patrón de diseño **Controlador-Servicio-Repositorio** (CSR), proporcionando una estructura clara y organizada para el manejo de la lógica empresarial y la persistencia de datos.
 
-### Objetivo
+#### Objetivo
 El objetivo de este proyecto es desarrollar una **API** que permita realizar operaciones CRUD sobre proyectos, desarrolladores y tecnologías, proporcionando endpoints fáciles de usar y documentación interactiva para facilitar la integración y pruebas.
 
 ---
@@ -36,16 +36,16 @@ La aplicación soporta los siguientes **endpoints** (base `/api/v1`):
 
 #### Endpoints Proyectos:
 
-1. **GET /projects**: Obtiene todos los proyectos paginados con su estado, tecnologías y desarrolladores asociados.
-2. **GET /projects/{word}**: Filtra los proyectos que contienen la palabra `word` en su nombre.
-3. **POST /projects/insert**: Inserta un nuevo proyecto.
-4. **PUT /projects/{id}**: Actualiza un proyecto existente.
-5. **DELETE /projects/{id}**: Elimina un proyecto.
+##### 1. **GET /projects**: Obtiene todos los proyectos paginados con su estado, tecnologías y desarrolladores asociados.
+##### 2. **GET /projects/{word}**: Filtra los proyectos que contienen la palabra `word` en su nombre.
+##### 3. **POST /projects/insert**: Inserta un nuevo proyecto.
+##### 4. **PUT /projects/{id}**: Actualiza un proyecto existente.
+##### 5. **DELETE /projects/{id}**: Elimina un proyecto.
 
 #### Endpoints Programadores:
 
-1. **POST /developers/insert**: Inserta un nuevo desarrollador.
-2. **DELETE /developers/{id}**: Elimina un desarrollador.
+##### 1. **POST /developers/insert**: Inserta un nuevo desarrollador.
+##### 2. **DELETE /developers/{id}**: Elimina un desarrollador.
 
 #### Endpoints Tecnologías:
 
