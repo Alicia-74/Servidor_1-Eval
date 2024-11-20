@@ -36,16 +36,16 @@ La aplicación soporta los siguientes **endpoints** (base `/api/v1`):
 
 #### Endpoints Proyectos:
 
-##### 1. **GET /projects**: Obtiene todos los proyectos paginados con su estado, tecnologías y desarrolladores asociados.
-##### 2. **GET /projects/{word}**: Filtra los proyectos que contienen la palabra `word` en su nombre.
-##### 3. **POST /projects/insert**: Inserta un nuevo proyecto.
-##### 4. **PUT /projects/{id}**: Actualiza un proyecto existente.
-##### 5. **DELETE /projects/{id}**: Elimina un proyecto.
+ 1. **GET /projects**: Obtiene todos los proyectos paginados con su estado, tecnologías y desarrolladores asociados.
+ 2. **GET /projects/{word}**: Filtra los proyectos que contienen la palabra `word` en su nombre.
+ 3. **POST /projects/insert**: Inserta un nuevo proyecto.
+ 4. **PUT /projects/{id}**: Actualiza un proyecto existente.
+ 5. **DELETE /projects/{id}**: Elimina un proyecto.
 
 #### Endpoints Programadores:
 
-##### 1. **POST /developers/insert**: Inserta un nuevo desarrollador.
-##### 2. **DELETE /developers/{id}**: Elimina un desarrollador.
+ 1. **POST /developers/insert**: Inserta un nuevo desarrollador.
+ 2. **DELETE /developers/{id}**: Elimina un desarrollador.
 
 #### Endpoints Tecnologías:
 
