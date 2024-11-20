@@ -29,6 +29,7 @@ El objetivo de este proyecto es desarrollar una **API** que permita realizar ope
 - **Git**: Control de versiones para gestionar el código fuente.
 
   
+---
 
 ### Funcionalidades del Proyecto
 
