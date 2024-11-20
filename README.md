@@ -6,12 +6,11 @@
 3. [Funcionalidades](#funcionalidades)
 4. [Guía de Uso](#guía-de-uso)
 5. [Conclusión](#conclusión)
-6. [Licencia](#licencia)
-7. [Contacto](#contacto)
+6. [Contacto](#contacto)
 
 ---
 
-## Introducción
+## 🎯 Introducción
 
 ### Descripción del Proyecto
 Este proyecto es una **API RESTful** que gestiona la información relacionada con **proyectos**, **desarrolladores** y **tecnologías** utilizadas en el desarrollo de dichos proyectos. La aplicación está construida utilizando el patrón de diseño **Controlador-Servicio-Repositorio** (CSR), proporcionando una estructura clara y organizada para el manejo de la lógica empresarial y la persistencia de datos.
@@ -21,7 +20,7 @@ El objetivo de este proyecto es desarrollar una **API** que permita realizar ope
 
 ---
 
-### Tecnologías Usadas
+### 🔧 Tecnologías Usadas
 
 - **Spring Boot**: Framework principal para el desarrollo de la aplicación.
 - **Spring Data JPA**: Para la gestión de la persistencia de datos.
@@ -31,7 +30,7 @@ El objetivo de este proyecto es desarrollar una **API** que permita realizar ope
   
 ---
 
-### Funcionalidades del Proyecto
+### ⚙️ Funcionalidades del Proyecto
 
 La aplicación soporta los siguientes **endpoints** (base `/api/v1`):
 
@@ -56,9 +55,9 @@ La aplicación soporta los siguientes **endpoints** (base `/api/v1`):
 
 ---
 
-## Guía de Uso
+## 📚 Guía de Uso
 
-### Instalación
+#### Instalación
 
 1. Clona este repositorio en tu máquina local:
 
@@ -67,16 +66,16 @@ La aplicación soporta los siguientes **endpoints** (base `/api/v1`):
     ```
 
 2. La aplicación estará disponible en `http://localhost:8080`.
+   
 
-### Swagger (Documentación Interactiva)
+#### Swagger (Documentación Interactiva)
 
 La documentación interactiva de la API está disponible gracias a **SpringDoc**. Puedes acceder a ella en la siguiente URL: http://localhost:8080/swagger-ui.html.
 
 En esta documentación podrás ver todos los endpoints, sus parámetros y las respuestas que puedes esperar de la API, además de probar las solicitudes directamente desde la interfaz web.
 
----
 
-### Ejemplo de Uso
+#### Ejemplo de Uso
 
 **POST /projects/insert** - Crear un nuevo proyecto:
 
@@ -97,7 +96,7 @@ En esta documentación podrás ver todos los endpoints, sus parámetros y las re
 
 ---
 
-## Conclusión
+## 🎉 Conclusión
 
 Este proyecto proporciona una API RESTful eficiente y bien estructurada para la gestión de proyectos, desarrolladores y tecnologías en el contexto de equipos de desarrollo de software. Gracias al uso de tecnologías como Spring Boot, Spring Data JPA y Swagger, la aplicación es fácil de mantener, documentada y permite realizar las operaciones CRUD necesarias para gestionar la información de manera efectiva.
 
@@ -107,7 +106,7 @@ Además, el manejo centralizado de excepciones y el control adecuado de errores 
 ---
 
 
-## Contacto
+## 📬 Contacto
 
 - **GitHub**: [@Alicia-74](https://github.com/Alicia-74)
 - **LinkedIn**: [Alicia Hernández Contreras](https://www.linkedin.com/in/alicia-hern%C3%A1ndez-contreras-537101307/).
