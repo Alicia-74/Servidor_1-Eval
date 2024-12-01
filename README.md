@@ -1,3 +1,4 @@
+
 # 🚀 Servidor_1-Eval  DAW Alicia Hernández Contreras
 
 ## Índice
@@ -110,3 +111,4 @@ Además, el manejo centralizado de excepciones y el control adecuado de errores 
 
 - **GitHub**: [@Alicia-74](https://github.com/Alicia-74)
 - **LinkedIn**: [Alicia Hernández Contreras](https://www.linkedin.com/in/alicia-hern%C3%A1ndez-contreras-537101307/).
+
