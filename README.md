@@ -1,12 +1,12 @@
 # 🚀 Servidor_1-Eval  DAW Alicia Hernández Contreras
 
 ## Índice
-1. [Introducción](#introducción)
-2. [Tecnologías Usadas](#tecnologías-usadas)
-3. [Funcionalidades](#funcionalidades)
-4. [Guía de Uso](#guía-de-uso)
-5. [Conclusión](#conclusión)
-6. [Contacto](#contacto)
+1. [Introducción](##Introducción)
+2. [Tecnologías Usadas](###Tecnologías-Usadas)
+3. [Funcionalidades del Proyecto](###Funcionalidades-del-Proyecto)
+4. [Guía de Uso](##Guía-de-uso)
+5. [Conclusión](##Conclusión)
+6. [Contacto](##Contacto)
 
 ---
 
